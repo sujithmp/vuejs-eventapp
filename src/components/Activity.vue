@@ -25,10 +25,10 @@
         data() {
             return {
             activities: [
-                'Today I slept at 4 in the morning after watching Argentina vs Croatia Semi-final.',
-                'I wokeup at 8 \'O\' clock in the morning by hearing the alarm.',
-                'Even though I opened my eyes, I put the alarm in snooze and slept again until it was close to 9.',
-                'By about 9 past half I had bath and got ready for work.',
+                'Event 1',
+                'Some event 2.',
+                'Some more event 3.',
+                'Some more and more and more and more and more event 4.',
             ],
             newActivity: '',
             }
